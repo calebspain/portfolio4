@@ -82,3 +82,10 @@ p.lead {
     }
   }
 }
+
+#about {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.99)), url('../img/houston.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
